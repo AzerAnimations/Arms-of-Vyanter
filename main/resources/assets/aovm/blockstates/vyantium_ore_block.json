@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "aovm:vyantium_ore_block" }
+    }
+}

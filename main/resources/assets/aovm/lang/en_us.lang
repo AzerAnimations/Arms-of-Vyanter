@@ -1,0 +1,18 @@
+
+//ITEMS
+item.knight_sword.name=Oblivion
+item.ender_gem.name=Ender Gem
+item.ender_dust.name=Ender Dust
+item.ragnotik_chunk.name=Ragnotik Chunk
+item.vyantium_ingot.name=Vyantium Ingot
+item.shadow_blade.name=Shadow Blade
+item.vyantium_plate.name=Vyantium Plate
+item.sigil_of_plants.name=Sigil of Plants
+
+//BLOCKS
+tile.ender_gem_block.name=Ender Gem Block
+tile.ragnotik_ore_block.name=Ragnotik Ore Block
+tile.vyantium_ore_block.name=Vyantium Ore Block
+
+//TAB
+itemGroup.vyanter_tab=Arms of Vyanter

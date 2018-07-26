@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aovm",
+  "name": "arms of vyanter",
+  "description": "Weapons and Armor mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Azeriaus"],
+  "credits": "I don't know.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

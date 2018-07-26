@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "EEE",
+        "EDE",
+        "EEE"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+ 
+        "E":
+        {
+            "item": "aovm:ender_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "aovm:ender_gem",
+        "count": 1
+    }
+}

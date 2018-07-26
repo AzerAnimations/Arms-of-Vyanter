@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "aovm:ender_gem_block" }
+    }
+}

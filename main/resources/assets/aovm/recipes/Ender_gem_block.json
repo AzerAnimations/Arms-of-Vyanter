@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "EEE",
+        "EEE",
+        "EEE"
+    ],
+   
+    "key":
+    {
+        "E":
+        {
+            "item": "aovm:ender_gem"
+        }
+    },
+   
+    "result":
+    {
+        "item": "aovm:ender_gem_block",
+        "count": 1
+    }
+}
