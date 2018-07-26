@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.Azeriaus.ArmsOfVyanter.items.ItemBase;
+import com.Azeriaus.ArmsOfVyanter.items.tools.DragonSlayer;
 import com.Azeriaus.ArmsOfVyanter.items.tools.ToolSword;
 
 import net.minecraft.creativetab.CreativeTabs;
@@ -23,6 +24,7 @@ public class ModItems {
 	
 	public static final ItemSword KNIGHT_SWORD = new ToolSword("knight_sword", OBLIVION);
 	public static final ItemSword SHADOW_BLADE = new ToolSword("shadow_blade", SHADOW);
+	public static final ItemSword DRAGON_SLAYER = new DragonSlayer("dragon_slayer", DRAGON);
 	public static final Item ENDER_GEM = new ItemBase("ender_gem");
 	public static final Item ENDER_DUST = new ItemBase("ender_dust");
 	public static final Item RAGNOTIK_CHUNK = new ItemBase("ragnotik_chunk");
